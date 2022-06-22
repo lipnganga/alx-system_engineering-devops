@@ -1,4 +1,0 @@
-#!/bin/bash
-echo path=$(which ls)
-echo ‘The absolute path is’ $path
-pwd command

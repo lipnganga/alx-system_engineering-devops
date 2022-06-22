@@ -1,3 +1,2 @@
 #!/bin/bash
-#Print out working directory
-echo "$PWD"      
+pwd === print working directory
